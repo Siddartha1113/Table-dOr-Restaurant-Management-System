@@ -1,0 +1,1562 @@
+[
+  {
+    "name": "Tre Forni Restaurant and Bar",
+    "description": "Experience the finest Italian cuisine at Tre Forni Restaurant and Bar, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Italian"
+    ],
+    "address": {
+      "street": "Park Hyatt",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4287,
+        17.4265
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.4,
+    "totalReviews": 461,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Little Italy",
+    "description": "Experience the finest Italian cuisine at Little Italy, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Italian"
+    ],
+    "address": {
+      "street": "Road No. 92",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4072,
+        17.4326
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.8,
+    "totalReviews": 120,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Flying Spaghetti Monster",
+    "description": "Experience the finest Italian cuisine at Flying Spaghetti Monster, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Italian"
+    ],
+    "address": {
+      "street": "Road No. 46",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4068,
+        17.4332
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.4,
+    "totalReviews": 397,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Jonathan's Kitchen",
+    "description": "Experience the finest Italian cuisine at Jonathan's Kitchen, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Italian"
+    ],
+    "address": {
+      "street": "Holiday Inn Express",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3615,
+        17.4428
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.8,
+    "totalReviews": 500,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Prego",
+    "description": "Experience the finest Italian cuisine at Prego, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Italian"
+    ],
+    "address": {
+      "street": "The Westin",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3811,
+        17.4435
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.5,
+    "totalReviews": 417,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Tuscany",
+    "description": "Experience the finest Italian cuisine at Tuscany, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Italian"
+    ],
+    "address": {
+      "street": "Trident Hyderabad",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4312,
+        17.429
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.9,
+    "totalReviews": 284,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Ruci & Idoni",
+    "description": "Experience the finest Italian cuisine at Ruci & Idoni, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Italian"
+    ],
+    "address": {
+      "street": "Road No. 1",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4485,
+        17.4193
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.4,
+    "totalReviews": 260,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Ci Gusta!",
+    "description": "Experience the finest Italian cuisine at Ci Gusta!, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Italian"
+    ],
+    "address": {
+      "street": "Road No. 64",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4032,
+        17.444
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.2,
+    "totalReviews": 111,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Cibo House",
+    "description": "Experience the finest Italian cuisine at Cibo House, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Italian"
+    ],
+    "address": {
+      "street": "Inorbit Mall Road",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3965,
+        17.4402
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/uuxwvq1483907861.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.3,
+    "totalReviews": 105,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Roastery Coffee House",
+    "description": "Experience the finest Italian cuisine at Roastery Coffee House, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Italian"
+    ],
+    "address": {
+      "street": "Road No. 14",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.423,
+        17.419
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/xrptpq1483909204.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.9,
+    "totalReviews": 153,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Mekong",
+    "description": "Experience the finest Asian cuisine at Mekong, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Asian"
+    ],
+    "address": {
+      "street": "Marigold Hotel",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4445,
+        17.4367
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.2,
+    "totalReviews": 379,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Haiku",
+    "description": "Experience the finest Asian cuisine at Haiku, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Asian"
+    ],
+    "address": {
+      "street": "Road No. 12",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4348,
+        17.4208
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.5,
+    "totalReviews": 423,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Hashi",
+    "description": "Experience the finest Asian cuisine at Hashi, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Asian"
+    ],
+    "address": {
+      "street": "Road No. 36",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4075,
+        17.43
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.7,
+    "totalReviews": 407,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Mamagoto",
+    "description": "Experience the finest Asian cuisine at Mamagoto, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Asian"
+    ],
+    "address": {
+      "street": "Kondapur Main Road",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3779,
+        17.4407
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.6,
+    "totalReviews": 268,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Zega",
+    "description": "Experience the finest Asian cuisine at Zega, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Asian"
+    ],
+    "address": {
+      "street": "Sheraton Hyderabad",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3498,
+        17.4156
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.5,
+    "totalReviews": 80,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Holy Basil",
+    "description": "Experience the finest Asian cuisine at Holy Basil, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Asian"
+    ],
+    "address": {
+      "street": "Radisson Blu",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4482,
+        17.4093
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.3,
+    "totalReviews": 411,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Chubby Cho",
+    "description": "Experience the finest Asian cuisine at Chubby Cho, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Asian"
+    ],
+    "address": {
+      "street": "Road No. 45",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4055,
+        17.4323
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4,
+    "totalReviews": 108,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Nanking",
+    "description": "Experience the finest Asian cuisine at Nanking, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Asian"
+    ],
+    "address": {
+      "street": "Park Lane",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.502,
+        17.4434
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/40r49m1763197022.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.9,
+    "totalReviews": 189,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Mainland China",
+    "description": "Experience the finest Asian cuisine at Mainland China, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Asian"
+    ],
+    "address": {
+      "street": "Begumpet Next to Lifestyle",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4447,
+        17.4375
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.4,
+    "totalReviews": 128,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Seven Sisters",
+    "description": "Experience the finest Asian cuisine at Seven Sisters, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Asian"
+    ],
+    "address": {
+      "street": "Road No. 1",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4392,
+        17.4225
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/ysqrus1487425681.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.3,
+    "totalReviews": 315,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Dum Pukht Begum's",
+    "description": "Experience the finest Indian cuisine at Dum Pukht Begum's, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Indian"
+    ],
+    "address": {
+      "street": "ITC Kakatiya",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4593,
+        17.4335
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.5,
+    "totalReviews": 124,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Jewel of Nizam",
+    "description": "Experience the finest Indian cuisine at Jewel of Nizam, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Indian"
+    ],
+    "address": {
+      "street": "The Minar",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3262,
+        17.378
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 5,
+    "totalReviews": 417,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Paradise Biryani",
+    "description": "Experience the finest Indian cuisine at Paradise Biryani, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Indian"
+    ],
+    "address": {
+      "street": "SD Road",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4903,
+        17.4399
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/ytuvwr1503070420.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.8,
+    "totalReviews": 396,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Bawarchi",
+    "description": "Experience the finest Indian cuisine at Bawarchi, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Indian"
+    ],
+    "address": {
+      "street": "RTC X Roads",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4983,
+        17.4057
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.8,
+    "totalReviews": 238,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Krishnapatnam",
+    "description": "Experience the finest Indian cuisine at Krishnapatnam, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Indian"
+    ],
+    "address": {
+      "street": "Salarpuria Sattva Knowledge City",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3962,
+        17.4408
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/qqwypw1504642429.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.9,
+    "totalReviews": 136,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "AnTeRa Kitchen & Bar",
+    "description": "Experience the finest Indian cuisine at AnTeRa Kitchen & Bar, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Indian"
+    ],
+    "address": {
+      "street": "Road No. 10",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.408,
+        17.4338
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 5,
+    "totalReviews": 469,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Spicy Venue",
+    "description": "Experience the finest Indian cuisine at Spicy Venue, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Indian"
+    ],
+    "address": {
+      "street": "Road No. 36",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.411,
+        17.4328
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4,
+    "totalReviews": 121,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Chutneys",
+    "description": "Experience the finest Indian cuisine at Chutneys, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Indian"
+    ],
+    "address": {
+      "street": "Raj Bhavan Road",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4533,
+        17.4277
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/xqrwyr1511133646.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.8,
+    "totalReviews": 188,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Simply South",
+    "description": "Experience the finest Indian cuisine at Simply South, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Indian"
+    ],
+    "address": {
+      "street": "Film Nagar",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.396,
+        17.439
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.6,
+    "totalReviews": 470,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Ohri's Jiva Imperia",
+    "description": "Experience the finest Indian cuisine at Ohri's Jiva Imperia, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Indian"
+    ],
+    "address": {
+      "street": "White House Building",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4552,
+        17.4337
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.1,
+    "totalReviews": 199,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Chili's American Grill & Bar",
+    "description": "Experience the finest Mexican cuisine at Chili's American Grill & Bar, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Mexican"
+    ],
+    "address": {
+      "street": "Inorbit Mall",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.386,
+        17.4334
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.3,
+    "totalReviews": 410,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "California Burrito",
+    "description": "Experience the finest Mexican cuisine at California Burrito, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Mexican"
+    ],
+    "address": {
+      "street": "Mindspace",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.38,
+        17.4422
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.6,
+    "totalReviews": 486,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Taco Bell",
+    "description": "Experience the finest Mexican cuisine at Taco Bell, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Mexican"
+    ],
+    "address": {
+      "street": "Sarath City Capital Mall",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.392,
+        17.4312
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.2,
+    "totalReviews": 144,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Churrolto",
+    "description": "Experience the finest Mexican cuisine at Churrolto, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Mexican"
+    ],
+    "address": {
+      "street": "Road No. 8",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4235,
+        17.414
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.5,
+    "totalReviews": 257,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Nomad's Tacos",
+    "description": "Experience the finest Mexican cuisine at Nomad's Tacos, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Mexican"
+    ],
+    "address": {
+      "street": "Madhapur",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3945,
+        17.4372
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.6,
+    "totalReviews": 150,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "World of Tortillas",
+    "description": "Experience the finest Mexican cuisine at World of Tortillas, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Mexican"
+    ],
+    "address": {
+      "street": "Gachibowli",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3688,
+        17.4465
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 5,
+    "totalReviews": 273,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Wrap It",
+    "description": "Experience the finest Mexican cuisine at Wrap It, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Mexican"
+    ],
+    "address": {
+      "street": "Jubilee Hills",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4002,
+        17.432
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.8,
+    "totalReviews": 63,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Hard Rock Cafe",
+    "description": "Experience the finest Mexican cuisine at Hard Rock Cafe, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Mexican"
+    ],
+    "address": {
+      "street": "Salarpuria Sattva Knowledge City",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3962,
+        17.4408
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.3,
+    "totalReviews": 94,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "By The Peepal",
+    "description": "Experience the finest Mexican cuisine at By The Peepal, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Mexican"
+    ],
+    "address": {
+      "street": "Road No. 36",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.406,
+        17.4265
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.3,
+    "totalReviews": 125,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": false,
+      "type": "percentage",
+      "value": 50
+    }
+  },
+  {
+    "name": "Habanero",
+    "description": "Experience the finest Mexican cuisine at Habanero, safely situated in the heart of Hyderabad. Our meticulously engineered menu caters to exquisite culinary cravings featuring authentic aesthetic ambiance.",
+    "cuisine": [
+      "Mexican"
+    ],
+    "address": {
+      "street": "Hitech City Main Road",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3892,
+        17.4452
+      ]
+    },
+    "photos": [
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+        "caption": "food"
+      },
+      {
+        "url": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+        "caption": "interior"
+      }
+    ],
+    "bookingFeePerGuest": 75,
+    "averageRating": 4.7,
+    "totalReviews": 206,
+    "priceRange": "₹₹₹",
+    "menu": [],
+    "discount": {
+      "isActive": true,
+      "type": "percentage",
+      "value": 50
+    }
+  }
+]
