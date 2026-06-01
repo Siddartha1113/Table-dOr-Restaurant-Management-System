@@ -1,0 +1,804 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Tre Forni Restaurant and Bar",
+      "cuisine": "Italian",
+      "latitude": 17.4265,
+      "longitude": 78.4287,
+      "address": "Park Hyatt, Road No. 2, Banjara Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Little Italy",
+      "cuisine": "Italian",
+      "latitude": 17.4326,
+      "longitude": 78.4072,
+      "address": "Road No. 92, Jubilee Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Flying Spaghetti Monster",
+      "cuisine": "Italian",
+      "latitude": 17.4332,
+      "longitude": 78.4068,
+      "address": "Road No. 46, Jubilee Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Jonathan's Kitchen",
+      "cuisine": "Italian",
+      "latitude": 17.4428,
+      "longitude": 78.3615,
+      "address": "Holiday Inn Express, Gachibowli, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Prego",
+      "cuisine": "Italian",
+      "latitude": 17.4435,
+      "longitude": 78.3811,
+      "address": "The Westin, Mindspace IT Park, HITEC City, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tuscany",
+      "cuisine": "Italian",
+      "latitude": 17.429,
+      "longitude": 78.4312,
+      "address": "Trident Hyderabad, HITEC City, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Ruci & Idoni",
+      "cuisine": "Italian",
+      "latitude": 17.4193,
+      "longitude": 78.4485,
+      "address": "Road No. 1, Banjara Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Ci Gusta!",
+      "cuisine": "Italian",
+      "latitude": 17.444,
+      "longitude": 78.4032,
+      "address": "Road No. 64, Jubilee Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Cibo House",
+      "cuisine": "Italian",
+      "latitude": 17.4402,
+      "longitude": 78.3965,
+      "address": "Inorbit Mall Road, HITEC City, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uuxwvq1483907861.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Roastery Coffee House",
+      "cuisine": "Italian",
+      "latitude": 17.419,
+      "longitude": 78.423,
+      "address": "Road No. 14, Banjara Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/xrptpq1483909204.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Mekong",
+      "cuisine": "Asian",
+      "latitude": 17.4367,
+      "longitude": 78.4445,
+      "address": "Marigold Hotel, Greenlands, Ameerpet, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Haiku",
+      "cuisine": "Asian",
+      "latitude": 17.4208,
+      "longitude": 78.4348,
+      "address": "Road No. 12, Banjara Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Hashi",
+      "cuisine": "Asian",
+      "latitude": 17.43,
+      "longitude": 78.4075,
+      "address": "Road No. 36, Jubilee Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Mamagoto",
+      "cuisine": "Asian",
+      "latitude": 17.4407,
+      "longitude": 78.3779,
+      "address": "Kondapur Main Road, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Zega",
+      "cuisine": "Asian",
+      "latitude": 17.4156,
+      "longitude": 78.3498,
+      "address": "Sheraton Hyderabad, Gachibowli, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Holy Basil",
+      "cuisine": "Asian",
+      "latitude": 17.4093,
+      "longitude": 78.4482,
+      "address": "Radisson Blu, Banjara Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Chubby Cho",
+      "cuisine": "Asian",
+      "latitude": 17.4323,
+      "longitude": 78.4055,
+      "address": "Road No. 45, Jubilee Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Nanking",
+      "cuisine": "Asian",
+      "latitude": 17.4434,
+      "longitude": 78.502,
+      "address": "Park Lane, Secunderabad, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/40r49m1763197022.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Mainland China",
+      "cuisine": "Asian",
+      "latitude": 17.4375,
+      "longitude": 78.4447,
+      "address": "Begumpet Next to Lifestyle, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Seven Sisters",
+      "cuisine": "Asian",
+      "latitude": 17.4225,
+      "longitude": 78.4392,
+      "address": "Road No. 1, Banjara Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/ysqrus1487425681.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Dum Pukht Begum's",
+      "cuisine": "Indian",
+      "latitude": 17.4335,
+      "longitude": 78.4593,
+      "address": "ITC Kakatiya, Begumpet, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Jewel of Nizam",
+      "cuisine": "Indian",
+      "latitude": 17.378,
+      "longitude": 78.3262,
+      "address": "The Minar, Golkonda Resort, Gandipet, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Paradise Biryani",
+      "cuisine": "Indian",
+      "latitude": 17.4399,
+      "longitude": 78.4903,
+      "address": "SD Road, Secunderabad, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/ytuvwr1503070420.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Bawarchi",
+      "cuisine": "Indian",
+      "latitude": 17.4057,
+      "longitude": 78.4983,
+      "address": "RTC X Roads, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Krishnapatnam",
+      "cuisine": "Indian",
+      "latitude": 17.4408,
+      "longitude": 78.3962,
+      "address": "Salarpuria Sattva Knowledge City, HITEC City, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/qqwypw1504642429.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "AnTeRa Kitchen & Bar",
+      "cuisine": "Indian",
+      "latitude": 17.4338,
+      "longitude": 78.408,
+      "address": "Road No. 10, Jubilee Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spicy Venue",
+      "cuisine": "Indian",
+      "latitude": 17.4328,
+      "longitude": 78.411,
+      "address": "Road No. 36, Jubilee Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Chutneys",
+      "cuisine": "Indian",
+      "latitude": 17.4277,
+      "longitude": 78.4533,
+      "address": "Raj Bhavan Road, Somajiguda, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/xqrwyr1511133646.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Simply South",
+      "cuisine": "Indian",
+      "latitude": 17.439,
+      "longitude": 78.396,
+      "address": "Film Nagar, Jubilee Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Ohri's Jiva Imperia",
+      "cuisine": "Indian",
+      "latitude": 17.4337,
+      "longitude": 78.4552,
+      "address": "White House Building, Begumpet, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Chili's American Grill & Bar",
+      "cuisine": "Mexican",
+      "latitude": 17.4334,
+      "longitude": 78.386,
+      "address": "Inorbit Mall, HITEC City, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "California Burrito",
+      "cuisine": "Mexican",
+      "latitude": 17.4422,
+      "longitude": 78.38,
+      "address": "Mindspace, HITEC City, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Taco Bell",
+      "cuisine": "Mexican",
+      "latitude": 17.4312,
+      "longitude": 78.392,
+      "address": "Sarath City Capital Mall, Kondapur, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Churrolto",
+      "cuisine": "Mexican",
+      "latitude": 17.414,
+      "longitude": 78.4235,
+      "address": "Road No. 8, Banjara Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/ypuxtw1511297463.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Nomad's Tacos",
+      "cuisine": "Mexican",
+      "latitude": 17.4372,
+      "longitude": 78.3945,
+      "address": "Madhapur, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "World of Tortillas",
+      "cuisine": "Mexican",
+      "latitude": 17.4465,
+      "longitude": 78.3688,
+      "address": "Gachibowli, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Wrap It",
+      "cuisine": "Mexican",
+      "latitude": 17.432,
+      "longitude": 78.4002,
+      "address": "Jubilee Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Hard Rock Cafe",
+      "cuisine": "Mexican",
+      "latitude": 17.4408,
+      "longitude": 78.3962,
+      "address": "Salarpuria Sattva Knowledge City, HITEC City, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "By The Peepal",
+      "cuisine": "Mexican",
+      "latitude": 17.4265,
+      "longitude": 78.406,
+      "address": "Road No. 36, Jubilee Hills, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Habanero",
+      "cuisine": "Mexican",
+      "latitude": 17.4452,
+      "longitude": 78.3892,
+      "address": "Hitech City Main Road, Hyderabad, Telangana",
+      "images": [
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+          "imageType": "food",
+          "source": "Verified Selection"
+        },
+        {
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+          "imageType": "interior",
+          "source": "Verified Selection"
+        }
+      ]
+    }
+  ]
+}

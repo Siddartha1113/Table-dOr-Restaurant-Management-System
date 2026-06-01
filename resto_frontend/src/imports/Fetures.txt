@@ -1,0 +1,29 @@
+Fetures:
+1. Date time and slot boking of restro (the fork)
+2. Type of restos (eatigo)
+3. Map when we hover around that particular restro in the area (yelp)
+4. Video when we open web (Book a table)
+5. filter - reviews and prices(quandoo)
+5. Discounts 
+
+
+common for both:
+main: locked search bar for all the pages including scrolling
+1. login
+
+Customer Pages:
+Name->
+Opening homepage (book a table video with search bar)
+Cuisines (quandoo) scroll down for recommendations of restro (According to time and weather)
+filter - reviews and prices(quandoo)
+Individual page for restros and Map when we open a particular restro of that. (Bookatable)
+Date time and slot avlibility of restro with opening and closing hrs of restro (the fork)
+menu
+booking of table per guest ₹75
+payment portal 
+
+Owners page:
+name->
+Opening homepage (Status of tables)
+Add/update menu items 
+Upload restro photos 
